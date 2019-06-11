@@ -1,2 +1,2 @@
 # Gallery_project
-Работа из графикой в HTML 
+Работа из графикой в HTML
